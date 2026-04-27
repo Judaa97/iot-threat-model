@@ -1,0 +1,26 @@
+{
+  "version": "2.6.0",
+  "summary": {
+    "title": "Project 4",
+    "owner": "Judaa97",
+    "description": "-",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "id": 0,
+        "title": "RTMP",
+        "diagramType": "STRIDE",
+        "placeholder": "New STRIDE diagram description",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.6.0",
+        "cells": []
+      }
+    ],
+    "diagramTop": 1,
+    "reviewer": "N/A",
+    "threatTop": 0
+  }
+}
